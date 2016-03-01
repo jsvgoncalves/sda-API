@@ -1,0 +1,23 @@
+{
+  "name": "sda-frontend",
+  "homepage": "https://github.com/thecodeflavour/sda-frontend",
+  "authors": [
+    "PI-Victor <ipalade@redhat.com>"
+  ],
+  "description": "The frontend for ServicedeskAid",
+  "main": "servicedesk.js",
+  "moduleType": [],
+  "keywords": [
+    "servicedesk",
+    "frontend"
+  ],
+  "license": "Apache V2.0",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
